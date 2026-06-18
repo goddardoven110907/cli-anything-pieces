@@ -12,7 +12,7 @@ Manage memory assets, search snippets, browse models, and inspect activities via
 ## Install
 
 ```bash
-pip install git+https://github.com/lihao/cli-anything-pieces.git
+pip install git+https://github.com/goddardenoven110907/cli-anything-pieces.git
 ```
 
 ## Commands

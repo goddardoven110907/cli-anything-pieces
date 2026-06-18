@@ -6,3 +6,10 @@ dist/
 build/
 .env
 *.log
+_*
+_token.txt
+token.txt
+*.token
+*.token_*
+.hermes/
+create_repo.py
